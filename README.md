@@ -43,43 +43,47 @@
   </tr>
   <tr>
     <td>15.11.</td>
-    <td>Статистические распределения</td>
+    <td>Представление данных<br>
+      Статистические распределения</td>
+    <td>тест</td>
     <td></td>
-    <td>дз2</td>
     <td></td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2<a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2<br>
+      <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
     </td>
   </tr>
     <tr>
     <td>22.11</td>
     <td>Базовые статистические методы</td>
     <td></td>  
-    <td></td>
+    <td>дз1</td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
   </tr>
   <tr>
     <td>29.11.</td>
-    <td>Кластеризация и классификация</td>
+    <td>Кластеризация и классификация<br>
+    Регрессионные методы</td>
     <td></td>
-    <td>дз3</td>
+    <td>дз2</td>
     <td></td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
+      <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
     </td>
   </tr>
     <tr>
     <td>06.12</td>
-    <td>Регрессионные методы</td>
+    <td>Обзор методов. Консультация</td>
     <td></td>  
-    <td>дз4</td>
     <td></td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
+    <td></td>
+    <td>
       </td>
   </tr>
   <tr>
     <td>13.12.</td>
-    <td>Модели со смешанным эффектом. Обзор методов. Консультация</td>
+    <td>Модели со смешанным эффектом</td>
     <td>тест</td>
     <td></td>
     <td></td>
