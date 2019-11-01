@@ -36,10 +36,10 @@
     <tr>
     <td>07.11 <br> (чт!, 301б)</td>
     <td>Представление данных</td>
-    <td>тест</td>
-    <td>дз1: отправить мне на почту конспект основных идей глав 1-2 из <a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf">"How to Lie with Statistics"</a></td>
-    <td>16.11 11.00</td>
-    <td> <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf">"How to Lie with Statistics"</a> </td>
   </tr>
   <tr>
     <td>15.11.</td>
@@ -47,7 +47,7 @@
     <td></td>
     <td>дз2</td>
     <td></td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2<a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
     </td>
   </tr>
     <tr>
