@@ -10,8 +10,8 @@
 * Даша Попова ([почта](mailto:daschapopowa@gmail.com))
 
 ### Калькулятор оценки
-* 40% -- дом. задания
-* 20% -- 20 мин. тесты на занятиях
+* 40% -- дом. задания (дз1 + дз2)
+* 20% -- тесты на занятиях (тест1 + тест2)
 * 40% -- финальный проект
 
 ### План
@@ -45,7 +45,7 @@
     <td>15.11.</td>
     <td>Представление данных<br>
       Статистические распределения</td>
-    <td>тест</td>
+    <td>тест1</td>
     <td></td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2<br>
@@ -84,7 +84,7 @@
   <tr>
     <td>13.12.</td>
     <td>Модели со смешанным эффектом</td>
-    <td>тест</td>
+    <td>тест2</td>
     <td></td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 7
