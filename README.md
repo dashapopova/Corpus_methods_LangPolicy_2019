@@ -35,7 +35,7 @@
   </tr>
     <tr>
     <td>07.11 <br> (чт!, 301б)</td>
-    <td>Представление данных</td>
+    <td><a href="./W2_HowToLieWithStatistics.pptx">Представление данных</a></td>
     <td></td>
     <td></td>
     <td></td>
