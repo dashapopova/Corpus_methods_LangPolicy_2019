@@ -10,7 +10,7 @@
 * Даша Попова ([почта](mailto:daschapopowa@gmail.com), [telegram](https://t.me/dppopova))
 
 ### Калькулятор оценки
-* 40% -- дом. задания (дз1 + дз2)
+* 40% -- дом. задание
 * 20% -- тесты на занятиях (тест1 + тест2)
 * 40% -- финальный проект
 
@@ -57,17 +57,16 @@
     <td>23.11</td>
     <td>Базовые статистические методы</td>
     <td></td>  
-    <td>дз1</td>
+    <td></td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
   </tr>
   <tr>
     <td>27.11.</td>
-    <td>Кластеризация и классификация<br>
-    Регрессионные методы</td>
+    <td>Регрессионные методы</td>
     <td></td>
-    <td>дз2</td>
+    <td>дз</td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
@@ -75,7 +74,7 @@
   </tr>
     <tr>
     <td>30.11</td>
-    <td>Обзор методов. Консультация</td>
+    <td>Кластеризация и классификация</td>
     <td></td>  
     <td></td>
     <td></td>
@@ -84,7 +83,7 @@
   </tr>
   <tr>
     <td>07.12.</td>
-    <td>Модели со смешанным эффектом</td>
+    <td>Обзор методов. Консультация</td>
     <td>тест2</td>
     <td></td>
     <td></td>
