@@ -67,7 +67,7 @@
     <td>Регрессионные методы</td>
     <td></td>
     <td>дз</td>
-    <td></td>
+    <td>7.12 23:59</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
     </td>
@@ -95,7 +95,7 @@
     <td>Финальные проекты</td>
     <td></td>
     <td>Презентация и сдача финальных проектов</td>  
-    <td></td>
+    <td>Дедлайн сдачи текстового файла -- 14.12 11 утра</td>
     <td></td>
   </tr> 
 </table>
