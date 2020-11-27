@@ -67,7 +67,7 @@
     <td>Регрессионные методы</td>
     <td></td>
     <td>дз</td>
-    <td>7.12 23:59</td>
+    <td>6.12 23:59</td>
     <td>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
     </td>
