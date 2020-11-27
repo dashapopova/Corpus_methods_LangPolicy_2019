@@ -68,7 +68,7 @@
     <td></td>
     <td>дз</td>
     <td>7.12 23:59</td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
+    <td>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
     </td>
   </tr>
@@ -78,7 +78,7 @@
     <td></td>  
     <td></td>
     <td></td>
-    <td>
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
       </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@
     <td>тест2</td>
     <td></td>
     <td></td>
-    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 7
+    <td>
     </td>
   </tr>
     <tr>
