@@ -44,7 +44,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf">"How to Lie with Statistics"</a> </td>
+    <td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwia9s6v_unzAhVGxosKHRCBDC4QFnoECAQQAQ&url=https%3A%2F%2Fwww.horace.org%2Fblog%2Fwp-content%2Fuploads%2F2012%2F05%2FHow-to-Lie-With-Statistics-1954-Huff.pdf&usg=AOvVaw1Ce4jG0wKVlSCz_AjOU8c2">"How to Lie with Statistics"</a> </td>
   </tr>
   <tr>
     <td>10.11.</td>
