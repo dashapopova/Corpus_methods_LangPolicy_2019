@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>27.10.</td>
-    <td><a href="./W1_Corpus.pptx">Корпусные исследования</a></td>
+    <td><a href="./https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/blob/master/CM_Corpus%20linguistics.pptx">Корпусные исследования</a></td>
     <td></td>
     <td></td>
     <td></td>
