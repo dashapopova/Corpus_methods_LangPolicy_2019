@@ -48,8 +48,7 @@
   </tr>
   <tr>
     <td>10.11.</td>
-    <td>Представление данных<br>
-      Статистические распределения</td>
+    <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/tree/master/10.11">Типы данных, базовые графики</a></td>
     <td>тест1</td>
     <td></td>
     <td></td>
