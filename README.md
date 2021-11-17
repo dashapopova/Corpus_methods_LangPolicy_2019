@@ -58,7 +58,7 @@
   </tr>
     <tr>
     <td>17.11</td>
-    <td>Базовые статистические методы</td>
+    <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/tree/master/17.11">Базовые статистические методы</a></td>
     <td></td>  
     <td>дз1</td>
     <td></td>
