@@ -61,7 +61,7 @@
     <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/tree/master/17.11">Базовые статистические методы</a></td>
     <td></td>  
     <td>дз1</td>
-    <td></td>
+    <td>24.11</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
   </tr>
