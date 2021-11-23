@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>24.11.</td>
-    <td>Регрессионные методы</td>
+    <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/tree/master/24.11">Регрессионные методы</a></td>
     <td></td>
     <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/blob/master/HWs/CM_hw2.pdf">дз2</a></td>
     <td>01.12</td>
