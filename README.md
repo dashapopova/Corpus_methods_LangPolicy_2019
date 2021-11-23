@@ -70,7 +70,7 @@
     <td>Регрессионные методы</td>
     <td></td>
     <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/blob/master/HWs/CM_hw2.pdf">дз2</a></td>
-    <td></td>
+    <td>01.12</td>
     <td>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
     </td>
