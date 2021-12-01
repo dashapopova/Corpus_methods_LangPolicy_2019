@@ -79,7 +79,7 @@
     <td>01.12</td>
     <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/tree/master/1.12">Кластеризация и классификация</a></td>
     <td></td>  
-    <td></td>
+    <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/blob/master/HWs/FinalProjectGuidelines.md">Инструкция по фин. проекту</a></td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5<br>
       </td>
@@ -90,7 +90,7 @@
     <td>тест2</td>
     <td></td>
     <td></td>
-    <td><a href="https://github.com/dashapopova/Corpus_methods_LangPolicy_2021/blob/master/HWs/FinalProjectGuidelines.md">Инструкция по фин. проекту</a>
+    <td>
     </td>
   </tr>
     <tr>
